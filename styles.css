@@ -1,0 +1,184 @@
+
+body{
+    font-family: 'muli', sans-serif;
+    font-size: 20px;
+    font-weight: normal;   
+    color:black;
+    background-image: url("images/background-img.jpg");
+    /*background-color: #cccccc;*/
+    /*overflow-y:hidden;*/
+  }
+
+  .modal-size {
+    width: 1250px;
+    height: 650px;
+  }
+  
+
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 100 px;
+}
+
+.body-title{
+  font-family: 'muli', sans-serif;
+  font-size: 20px;
+  font-weight: normal;   
+  color:white;
+}
+.tamFoot{
+  font-size: 12px;
+  width: 100%;
+}
+.myRow{
+  padding-left: 1%;
+  padding-top: 1%;
+}
+.myBottom{
+  padding-bottom: 1%;
+}
+
+.myRowLeft{
+  padding-left: 10%;
+}
+
+.myCol{
+  align-items: left;
+}
+.info{
+  font-family: 'muli', sans-serif;
+  font-size: 20px;
+  font-weight: normal;   
+  color:black;
+  text-align: left;
+  vertical-align: text-top !important;
+}
+.logo-brand{
+  min-width: 50px;
+  max-width: 70px;
+  vertical-align: top;
+  float:right;
+}
+
+.header {
+  color: #36A0FF;
+  font-size: 27px;
+  text-align: left;
+}
+
+.bigicon {
+  font-size: 35px;
+  color: #36A0FF;
+}
+
+
+.accordion-word{
+  font-family: 'muli', sans-serif;
+  font-size: 16px;
+  color:black;
+  text-align: justify
+}
+.accordion-word2{
+  font-family: 'muli', sans-serif;
+  font-size: 16px;
+  color:black;
+  text-align: left
+}
+
+.col-word2{
+  font-family: 'muli', sans-serif;
+  font-size: 12px;
+  color:#2665AE;
+  text-align: center
+}
+
+.col-word3{
+  font-family: 'muli', sans-serif;
+  font-size: 14px;
+  color: black;
+  text-align: left
+}
+
+.col-word4{
+  font-family: 'muli', sans-serif;
+  font-size: 16px;
+  color: black;
+  text-align: left
+}
+
+.col-word-title{
+  font-family: 'Britannic Bold';
+  font-size: 30px;
+  color: #2665AE;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 5%
+}
+
+.col-word-subtitle{
+  font-family: 'Britannic Bold';
+  font-size: 22px;
+  color: #2665AE;
+  font-weight: bold;
+  text-align: left;
+}
+
+.col-word-subtitle1{
+  font-family: 'Britannic Bold';
+  font-size: 14px;
+  color: #2665AE;;
+  font-weight: bold;
+  text-align: left;
+}
+
+.carousel {
+  width:640px;
+  height:460px;
+}
+
+
+
+/*
+.navbar-nav {
+    flex-direction: row;
+  }
+  
+.hr-top{
+  height: 12px;
+  border: 0;
+  width: 100%;
+  box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+
+  .nav-link {
+    padding-right: .5rem !important;
+    padding-left: .5rem !important;
+  }*/
+  
+  /* Fixes dropdown menus placed on the right side */
+/*
+  .ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+  }
+
+
+  .row-bordered {
+    position: relative;
+  }
+  
+  .row-bordered:after {
+    content: "";
+    display: block;
+    border-bottom: 1px solid #ccc;
+    position: absolute;
+    bottom: 0;
+    left: 15px;
+    right: 15px;
+  }
+  .test1{
+    text-align: center !important;
+    font-size: x-large;
+  }*/
